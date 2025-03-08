@@ -8,7 +8,8 @@
 /dataSources/
 /dataSources.local.xml
 HELP.md
-target/
+.//whatsapp/*.iml
+.//whatsapp/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
